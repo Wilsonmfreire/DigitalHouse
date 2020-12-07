@@ -1,0 +1,37 @@
+header {
+    background-color: lightseagreen;
+    color: white;
+    font-size: 28px;
+    border-bottom: solid indigo 3px;
+    padding: 22px;
+    margin-bottom: 15px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+
+section {
+    width: 50%;
+    margin-bottom: 15px;
+    margin-left: 25%;
+    background-color: gainsboro;
+    padding-top: 30px;
+    padding-left: 12px;
+    padding-bottom: 30px;
+    border: dashed black 1px;
+    text-align: center;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+
+footer {
+    background-color: rebeccapurple;
+    color: white;
+    border-top: lightseagreen 1px;
+    padding: 12px;
+    height: 40px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
