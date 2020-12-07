@@ -19,3 +19,32 @@ input:hover {
 p:hover {
     color: orange;
 }
+
+header {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 30px;
+}
+
+main {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 30px;
+}
+
+footer {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 30px;
+}
+
+section {
+    border-top: 2px dotted gray;
+    border-bottom: 2px dotted gray;
+}
+
+article {
+    padding: 20px;
+    margin: 2-px 0;
+    background-color: #ffa600ad;
+}
