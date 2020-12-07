@@ -1,0 +1,21 @@
+body {
+    font-family: 'arial';
+}
+
+/*pseudo-seletores */
+
+input:hover {
+     border-color: orangered;
+}
+
+input:focus {
+    width: 400px;
+}
+
+input:hover {
+    border-color: orange;
+}
+
+p:hover {
+    color: orange;
+}
