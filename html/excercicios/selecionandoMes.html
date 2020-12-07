@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+</head>
+<body>
+    <form action="index.html" method="POST">
+        <label>Selecione o mês do seu aniversário</label>
+        </br>
+        <select value="1" name="mes" id="mes">
+            <option selected disabled>Selecione</option>
+            <option value="2">Janeiro</option>
+            <option value="3">Fevereiro</option>
+            <option value="4">Março</option>
+            <option value="5">Abril</option>
+            <option value="6">Maio</option>
+            <option value="7">Junho</option>
+            <option value="8">Julho</option>
+            <option value="9">Agosto</option>
+            <option value="10">Setembro</option>
+            <option value="11">Outubro</option>
+            <option value="12">Novembro</option>
+            <option value="13">Dezembro</option>
+        </select>
+        <!-- escreva seu código aqui -->
+
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
+<!--Exercício: selecionando mês
+Vamos criar um pequeno formulário com um drop-down (menu suspenso) para que o usuário possa selecionar o mês de seu aniversário.
+
+Para isso, precisaremos criar a tag <select> com o atributo e valor name="mes". Dentro do <select> precisará criar 12 tags<option>, uma para cada mês, declarando em cada caso o texto a ser lido pelo usuário: Janeiro, Fevereiro, Março, etc... 
+
+Não se esqueça, também, de escrever o atributo value em cada tag <option>.Mas atenção, a intenção é que, como valor, esse atributo receba o número que representa o mês no calendário. Exemplo: 1 se refere à Janeiro, 2 se refere à Fevereiro, e assim por diante...-->

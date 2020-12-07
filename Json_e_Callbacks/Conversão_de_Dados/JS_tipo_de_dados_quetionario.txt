@@ -1,0 +1,17 @@
+JS_tipo_de_dados_quetionario
+¡Massa! Você está mandou bem no questionário!!
+1
+var subtracao = 2 - 3;
+Qual o tipo de dado da variável subtracao?
+
+number
+2
+var soma;
+Qual é o tipo da variável soma?
+
+undefined
+3
+var chovendo = 'true';
+Qual é o tipo de dado da variável chovendo?
+
+string

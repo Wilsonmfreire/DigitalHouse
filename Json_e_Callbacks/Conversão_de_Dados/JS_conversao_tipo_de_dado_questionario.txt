@@ -1,0 +1,21 @@
+¡Fantástico! Você respondeu o questionário com êxito!!!
+1
+var resultadoConversao = parseFloat('12')
+Qual valor vai estar em resultadoConversao?
+
+12
+2
+var resultadoConversao = Number('Olá!');
+
+Qual o valor contem resultadoConversao?
+NaN
+3
+var resultadoConversao = Number(true)
+Qual valor contem a variável  resultadoConversao?
+
+1
+4
+var resultadoConversao = String(true)
+Qual o valor contem resultadoConversao?
+
+"true"

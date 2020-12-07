@@ -1,0 +1,17 @@
+JS_JSON_Questionário
+¡Muito bem!!
+1
+JSON é?
+
+JavaScript Object Notation
+2
+JSON é utilizado para...?
+Comunicar sistemas entre si
+3
+Para que posso utilizar o método JSON.stringify?
+
+Para transformar um objeto em um string
+4
+Para que posso utilizar o método JSON.parse?
+
+Para transformar uma string em um objeto

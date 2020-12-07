@@ -1,0 +1,13 @@
+¡Genial! Você concluiu o questionário com sucesso.!
+1
+Um closure é...
+
+Uma função dentro de uma função
+2
+Um closure serve para...
+
+Todas as anteriores
+3
+Uma closure, em relação aos parâmetros que está recebendo da função pai, tem acesso a...
+
+todos esses dados
