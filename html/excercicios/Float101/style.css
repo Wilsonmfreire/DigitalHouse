@@ -1,0 +1,8 @@
+section {
+    overflow: hidden;  
+}
+  
+article {
+    float: left;
+    width: 50%;
+}
