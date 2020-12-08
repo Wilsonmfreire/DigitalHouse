@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+    margin:0;
+    padding:0;
+}
+
+header{
+    text-align: center;
+    width: 100%;
+    border: 2px solid gray;
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+main{
+    background-color: #f2f2f2;
+    width: 100%;
+    position: relative;
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+    border: 2px solid gray;
+    padding: 20px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    bottom: 0;
+    right: 0;
+}
+
+img {
+    /*position: absolute;*/
+    /*top: 0;*/
+
+}
+
+img.chat{
+    width: 80px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
