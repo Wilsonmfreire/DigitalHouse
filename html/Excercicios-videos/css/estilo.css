@@ -48,3 +48,12 @@ article {
     margin: 2-px 0;
     background-color: #ffa600ad;
 }
+
+article {
+    float: left;
+    width: 30%;
+}
+
+section.noticias {
+    overflow: hidden;
+}
