@@ -12,7 +12,10 @@ header{
     text-align: center;
     width: 100%;
     border: 2px solid gray;
+    background-color: #fff;
     padding: 10px;
+    position: fixed;
+    z-index: 2;
 }
 
 ul{
@@ -34,6 +37,8 @@ main{
     background-color: #f2f2f2;
     width: 100%;
     position: relative;
+    padding: 100px 0 30px;
+    text-align: center;
 }
 
 footer{
@@ -48,15 +53,15 @@ footer{
     right: 0;
 }
 
-img {
-    /*position: absolute;*/
-    /*top: 0;*/
-
+id{
+    width: 50px;
+    height: 50px;
 }
 
 img.chat{
     width: 80px;
     position: fixed;
-    right: 0;
-    bottom: 0;
+    z-index: 2;
+    right: 10px;
+    bottom: 10px;
 }
